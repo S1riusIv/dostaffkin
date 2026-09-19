@@ -56,13 +56,6 @@
     text-decoration: none;
 }
 
-.main-actions {
-    margin-top: 50px;
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-}
-
 @media (max-width: 767px) {
     .header {
         left: 10px;
